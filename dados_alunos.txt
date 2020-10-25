@@ -1,0 +1,96 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMyoXaqcinuEBKi1N7l4lIf",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/NamSugata/Aula_Python/blob/master/dados_alunos.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "raCrdEurLanB"
+      },
+      "source": [
+        "%%writefile dados_alunos.txt\n",
+        "18\t1.68\t80\n",
+        "18\t1.94\t60\n",
+        "18\t1.7\t80\n",
+        "18\t1.76\t66\n",
+        "19\t1.73\t87.5\n",
+        "18\t1.66\t58\n",
+        "21\t1.8\t92\n",
+        "18\t1.6\t57\n",
+        "18\t1.67\t64\n",
+        "18\t1.73\t57\n",
+        "17\t1.73\t75\n",
+        "18\t1.61\t59\n",
+        "18\t1.69\t90\n",
+        "17\t1.71\t67\n",
+        "19\t1.78\t60\n",
+        "22\t1.68\t72\n",
+        "18\t1.7\t73\n",
+        "19\t1.64\t86\n",
+        "18\t1.64\t75\n",
+        "20\t1.8\t95\n",
+        "17\t1.75\t60\n",
+        "18\t1.78\t75\n",
+        "18\t1.75\t65\n",
+        "17\t1.69\t60\n",
+        "19\t1.78\t73\n",
+        "18\t1.7\t63\n",
+        "34\t1.75\t78\n",
+        "18\t1.64\t64\n",
+        "19\t1.75\t50\n",
+        "18\t1.67\t61\n",
+        "18\t1.7\t70\n",
+        "20\t1.8\t60\n",
+        "18\t1.63\t57\n",
+        "23\t1.89\t110\n",
+        "18\t1.71\t71\n",
+        "18\t1.65\t65\n",
+        "17\t1.72\t67\n",
+        "19\t1.65\t58\n",
+        "18\t1.75\t90\n",
+        "18\t1.7\t64\n",
+        "19\t1.81\t70\n",
+        "19\t1.65\t43\n",
+        "28\t1.52\t50\n",
+        "19\t1.79\t78\n",
+        "26\t1.79\t82\n",
+        "19\t1.75\t61\n",
+        "19\t1.8\t70\n",
+        "20\t1.75\t70\n",
+        "20\t1.73\t70\n",
+        "19\t1.7\t50\n",
+        "22\t1.78\t72\n",
+        "19\t1.77\t55\n",
+        "18\t1.53\t58\n",
+        "28\t1.54\t50\n",
+        "20\t1.83\t70\n",
+        "44\t1.85\t90\n",
+        "18\t1.6\t51"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
